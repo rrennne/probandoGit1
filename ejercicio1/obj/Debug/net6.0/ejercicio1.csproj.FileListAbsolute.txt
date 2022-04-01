@@ -1,0 +1,15 @@
+/home/rrennne/Documentos/2. UES-AÑO-2/PRN-II/modulo-I/tareasEjercicios/Progra/ejercicio1/bin/Debug/net6.0/ejercicio1
+/home/rrennne/Documentos/2. UES-AÑO-2/PRN-II/modulo-I/tareasEjercicios/Progra/ejercicio1/bin/Debug/net6.0/ejercicio1.deps.json
+/home/rrennne/Documentos/2. UES-AÑO-2/PRN-II/modulo-I/tareasEjercicios/Progra/ejercicio1/bin/Debug/net6.0/ejercicio1.runtimeconfig.json
+/home/rrennne/Documentos/2. UES-AÑO-2/PRN-II/modulo-I/tareasEjercicios/Progra/ejercicio1/bin/Debug/net6.0/ejercicio1.dll
+/home/rrennne/Documentos/2. UES-AÑO-2/PRN-II/modulo-I/tareasEjercicios/Progra/ejercicio1/bin/Debug/net6.0/ref/ejercicio1.dll
+/home/rrennne/Documentos/2. UES-AÑO-2/PRN-II/modulo-I/tareasEjercicios/Progra/ejercicio1/bin/Debug/net6.0/ejercicio1.pdb
+/home/rrennne/Documentos/2. UES-AÑO-2/PRN-II/modulo-I/tareasEjercicios/Progra/ejercicio1/obj/Debug/net6.0/ejercicio1.csproj.AssemblyReference.cache
+/home/rrennne/Documentos/2. UES-AÑO-2/PRN-II/modulo-I/tareasEjercicios/Progra/ejercicio1/obj/Debug/net6.0/ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+/home/rrennne/Documentos/2. UES-AÑO-2/PRN-II/modulo-I/tareasEjercicios/Progra/ejercicio1/obj/Debug/net6.0/ejercicio1.AssemblyInfoInputs.cache
+/home/rrennne/Documentos/2. UES-AÑO-2/PRN-II/modulo-I/tareasEjercicios/Progra/ejercicio1/obj/Debug/net6.0/ejercicio1.AssemblyInfo.cs
+/home/rrennne/Documentos/2. UES-AÑO-2/PRN-II/modulo-I/tareasEjercicios/Progra/ejercicio1/obj/Debug/net6.0/ejercicio1.csproj.CoreCompileInputs.cache
+/home/rrennne/Documentos/2. UES-AÑO-2/PRN-II/modulo-I/tareasEjercicios/Progra/ejercicio1/obj/Debug/net6.0/ejercicio1.dll
+/home/rrennne/Documentos/2. UES-AÑO-2/PRN-II/modulo-I/tareasEjercicios/Progra/ejercicio1/obj/Debug/net6.0/ref/ejercicio1.dll
+/home/rrennne/Documentos/2. UES-AÑO-2/PRN-II/modulo-I/tareasEjercicios/Progra/ejercicio1/obj/Debug/net6.0/ejercicio1.pdb
+/home/rrennne/Documentos/2. UES-AÑO-2/PRN-II/modulo-I/tareasEjercicios/Progra/ejercicio1/obj/Debug/net6.0/ejercicio1.genruntimeconfig.cache
